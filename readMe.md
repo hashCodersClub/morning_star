@@ -14,7 +14,7 @@
 2.  Staging Area
 3.  Local Repository [Folder jisko git]
 
-### How to initialize git local repo ?
+### How to initialize git local repo s?
 
 - git init
 
