@@ -1,6 +1,8 @@
 ### VCS (Version Control System)
 
-### Why we need GIT ?
+### What is Github ?
+
+-> server where we have global repo.
 
 ### What is GIT ?
 
@@ -21,3 +23,8 @@
 1.  git init [local repo initialize kardeta hai]
 2.  git status
 3.  git add <filename> [git trackes the files in staging area]
+4.  git remote add referenace url
+
+### What is Branching ?
+
+- by default we are in master branch.
